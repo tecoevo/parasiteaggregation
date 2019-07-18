@@ -8,5 +8,6 @@ This folder contains the following notebooks:
 
 (2) histograms.pdf
 
+(3) different-P.xlsx
 
 With these files, one can replicate the results shown in the paper. If interested in the generation of any plot not included, contact gokhale[at]evolbio.mpg.de.
