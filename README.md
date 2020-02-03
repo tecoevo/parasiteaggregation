@@ -1,6 +1,6 @@
 # parasiteaggregation
 
-Supplementary Material of the Parasite aggregation project - Jomar F. Rabajante, Elizabeth L. Anzia1 and Chaitanya S. Gokhale
+Supplementary Material of the Parasite aggregation project - Jomar F. Rabajante, Elizabeth L. Anzia and Chaitanya S. Gokhale
 
 This folder contains the following notebooks:
 
